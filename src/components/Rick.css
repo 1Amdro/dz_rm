@@ -10,6 +10,7 @@ body {
   background: cadetblue;
   cursor: pointer;
   border-radius: 8px;
+  margin-bottom: 0;
 }
 
 .episode,
